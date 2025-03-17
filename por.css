@@ -1,5 +1,5 @@
 .main{
-    background-color: rgb(40, 212, 212);
+    background-color: rgb(140, 168, 168);
 }
 #pic{
     border-radius: 5px;
@@ -8,9 +8,7 @@
 #head{
     color: red;
 }
-#head1{
-    background-color: yellow;
-}
+
 #head2{
     color:rgb(26, 252, 6);
 }
